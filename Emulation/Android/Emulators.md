@@ -1,4 +1,13 @@
 # Emulators
+- [Apple](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#apple)
+- [Arcade](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#arcade)
+- [Microsoft](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#microsoft)
+- [Multi-System](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#multi-system)
+- [Nintendo](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#nintendo)
+- [Sega](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#sega)
+- [Sony](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#sony)
+- [Windows/x86](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#windows--x86)
+
 Active/Retired/Dormant
 
 ## Apple
@@ -140,6 +149,7 @@ Active/Retired/Dormant
   - [Website](https://vita3k.org/)
   - [GitHub](https://github.com/Vita3K/Vita3K) 
 ### PlayStation 4
+- [shandroidPS4](https://github.com/Tersonous/shandroidPS4)
 
 ## Windows & x86
 - [Winlator](https://github.com/coffincolors/winlator)
