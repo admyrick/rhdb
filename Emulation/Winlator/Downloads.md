@@ -15,3 +15,5 @@
 ---
 ## Extras
 - [Ajay Prefix](https://github.com/ajay9634/Ajay-prefix)
+- [Prevent Steam Updates](https://github.com/longjunyu2/OldSteam/releases)
+
