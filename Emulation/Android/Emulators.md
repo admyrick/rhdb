@@ -13,16 +13,18 @@ Active/Retired/Dormant
 ## Apple
 - [touchHLE](https://github.com/touchHLE/touchHLE)
 
-[* Top](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#emulators)
+[^ Top](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#emulators)
 
 ## Arcade
 - [MAME4droid-Current](https://github.com/seleuco/MAME4droid-Current)
 - [PinMAME](https://github.com/vpinball/pinmame)
 
+[^ Top](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#emulators)
 ## Microsoft
 ### Xbox
 - [xemu](https://github.com/xemu-project/xemu)
 
+[^ Top](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#emulators)
 ## Multi-System
 - ClassicBoy
   - [Lite](https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite&hl=en_US)
@@ -37,6 +39,7 @@ Active/Retired/Dormant
   - [Play Store](https://play.google.com/store/apps/details?id=com.retroarch)
 - [Pizza Boy SC Pro](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboyscpro&hl=en-US&ah=3wYXQ0V9nHwvtDa9vzBvikz_jjE)
 
+[^ Top](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#emulators)
 ## Nintendo
 ### Game & Watch
 ### NES
@@ -106,6 +109,7 @@ Active/Retired/Dormant
 - Yuzu
 - [Ziunx](https://github.com/ziunx-emulator/Zinux-emu)
 
+[^ Top](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#emulators)
 ## Sega
 ### Sega Master System / Game Gear
 - [MasterGear](https://play.google.com/store/apps/details?id=com.fms.mg)
@@ -129,6 +133,7 @@ Active/Retired/Dormant
 - [Flycast Dojo](https://github.com/blueminder/flycast-dojo)
 - [Redream](https://redream.io/download)
 
+[^ Top](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#emulators)
 ## Sony
 ### PlayStation
 - DuckStation
@@ -153,6 +158,7 @@ Active/Retired/Dormant
 ### PlayStation 4
 - [shandroidPS4](https://github.com/Tersonous/shandroidPS4)
 
+[^ Top](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#emulators)
 ## Windows & x86
 - [Winlator](https://github.com/coffincolors/winlator)
   - [Winlator-Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost)
@@ -167,3 +173,4 @@ Active/Retired/Dormant
 - [Horizon Emu](https://github.com/HorizonEmuTeam/Horizon-Emu)
 - [GameSir GameHub](https://gamehub.xiaoji.com/)
 
+[^ Top](https://github.com/admyrick/rhdb/blob/main/Emulation/Android/Emulators.md#emulators)
